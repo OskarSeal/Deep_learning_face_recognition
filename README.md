@@ -1,5 +1,5 @@
 # Deep_learning_face_recognition
-Face recognition for project.
+Face recognition for project. Add faces into folder (known_faces), the more the better, with different angles. And name_number.jpeg format (for example Oskar_1.jpeg, Oskar_2.jpeg, two different photos of the same person) 
 Versions run on the following.
 torch:            2.2.2
 opencv:           4.13.0
